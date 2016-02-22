@@ -1,0 +1,5 @@
+Credentials cache: API:16128
+        Principal: vafanass@42.FR
+
+  Issued                Expires               Principal
+Oct 13 15:16:22 2015  Oct 20 15:16:05 2015  krbtgt/42.FR@42.FR
