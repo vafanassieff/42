@@ -2,4 +2,4 @@
 
 Born to code.
 
-Exam subject and Piscine theoricly 100% or almost
+My piscine @42 and some backup stuff.
